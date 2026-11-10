@@ -1,0 +1,68 @@
+KIRI — START HERE
+
+Read Japanese text from your screen and copy it with Command + Shift + 1.
+This download requires an Apple Silicon Mac (M1 or newer) and macOS 14 or later.
+No coding tools, account, or API key are needed.
+
+1. INSTALL AND OPEN
+
+Unzip the download. Drag Kiri.app into your Applications folder, then open it
+from Applications. Keep it there so its screen-capture permission stays tied
+to the same copy of the app.
+
+This is a privately shared build, without Apple Developer ID notarization.
+If macOS blocks it because the developer cannot be verified, first try opening
+Kiri, then go to Apple menu > System Settings > Privacy & Security. Scroll to
+the security message for Kiri, click Open Anyway, and confirm. Do this only
+for the copy you received from a source you trust.
+
+2. ALLOW SCREEN CAPTURE
+
+In Kiri's settings, click Allow Screen Capture.
+Go to Apple menu > System Settings > Privacy & Security >
+Screen & System Audio Recording (called Screen Recording on some versions).
+Turn Kiri on. If requested, quit and reopen Kiri from Applications.
+If Kiri is missing from the list, open Kiri and click Allow Screen Capture
+again to request access.
+
+Kiri reads the screen to recognize text. Recognition runs on your Mac;
+screenshots are not saved.
+
+3. USE COMMAND + SHIFT + 1
+
+Kiri already uses Command + Shift + 1 by default. You do not need to add it
+to the Mac's screenshot shortcuts in System Settings.
+
+Keep Kiri running; its viewfinder icon appears in the menu bar at the top
+of your screen. Hold Command and Shift, press 1, then release the keys.
+Click and drag around Japanese text, then release the mouse or trackpad.
+The recognized TEXT is copied to your clipboard. Paste with Command + V.
+Press Escape to cancel a selection.
+
+This captures an area for text recognition; it does not save an image file.
+Yomitan is optional and is installed separately if you want dictionary lookup.
+
+4. CHECK OR CHANGE THE SHORTCUT
+
+Click Kiri's viewfinder icon in the menu bar > Settings.
+Under Capture shortcut, click the shortcut button, then press
+Command + Shift + 1 (or your preferred combination).
+
+If Kiri says the shortcut is unavailable, another app may already use it.
+Change that app's shortcut, or choose another combination in Kiri.
+You can also click the menu bar icon > Capture Text to check that capture
+works independently of the keyboard shortcut.
+
+5. OPTIONAL SETTINGS
+
+Enable Launch Kiri at login if you want the shortcut available after restarting
+your Mac. Otherwise, open Kiri manually each time you want to use it.
+Keep Show a brief preview after copying enabled to see the recognized text.
+Leave Use language correction off for individual kanji and unfamiliar words.
+
+If selection works but no text is found, try larger, clearer text and include
+a little space around the complete characters. OCR can make mistakes.
+
+Apple help:
+https://support.apple.com/en-us/102445
+https://support.apple.com/guide/mac-help/mchld6aa7d23/mac
