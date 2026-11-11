@@ -12,6 +12,16 @@ Useful for Japanese text in images and videos that you can't highlight and copy.
 
 Requires **an M1 or newer Mac and macOS 14 or later**. This download does not support Intel Macs or Windows.
 
+## See Kiri in action
+
+**1. Press Command + Shift + 1 and drag around the text you want.**
+
+![Kiri’s selection overlay highlights 図書館 and dims the rest of the screen](screenshots/select-text.png)
+
+**2. Release to copy the text. Paste it with Command + V.**
+
+![Kiri’s Copied preview shows the recognized text 図書館](screenshots/copied-text.png)
+
 ## Set up
 
 1. Unzip the download and drag **Kiri.app** into **Applications**. Open it from there.
