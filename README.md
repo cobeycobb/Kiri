@@ -47,4 +47,4 @@ OCR can miss or misread small, stylized, obscured, or tightly cropped characters
 
 Vertical text, furigana, multiple physical displays, and launch at login have not been fully validated. This early release has not been tested on other people's Macs. Sometimes app stops working and requires a restart. 
 
-This repository hosts downloads, documentation, and feedback. The app's source code is not published here.
+The source code is available in this repository under the [MIT License](LICENSE).
