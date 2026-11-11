@@ -35,6 +35,10 @@ Click the viewfinder icon in the menu bar → **Settings** to change the shortcu
 
 See [the full setup guide](SETUP.txt) for more help. Yomitan and other lookup tools are optional and installed separately.
 
+## Build from source
+
+On a Mac with macOS 14 or later and Apple's Command Line Tools installed, clone this repository and run `./scripts/build.sh` to build `dist/Kiri.app`. Run `./scripts/share.sh` to build a ZIP with the app and setup guide. The scripts build for the Mac's current architecture.
+
 ## Feedback
 
 Found a bug or have an idea? **[Open an issue](https://github.com/cobeycobb/Kiri/issues/new/choose)**. For bugs, include your macOS version, Mac model, what you did, and what happened. Check [existing issues](https://github.com/cobeycobb/Kiri/issues) first.
